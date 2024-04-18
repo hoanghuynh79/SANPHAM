@@ -1,0 +1,10 @@
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.Form1.resources
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\bin\Debug\DBMS.exe.config
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\bin\Debug\DBMS.exe
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\bin\Debug\DBMS.pdb
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.exe
+C:\Users\HOANG HUYNH\source\repos\DBMS\DBMS\DBMS\obj\Debug\DBMS.pdb
